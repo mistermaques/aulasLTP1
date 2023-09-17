@@ -5,5 +5,5 @@ if(color == 'vermelho'){
 }else if(color == 'verde'){
     alert("GOGO POWER RANGER!!")
 }else{
-    alert("escolha a porra de uma das duas corres aralho")
+    alert("escolha a porra de uma das duas corres aralhoooo")
 }
